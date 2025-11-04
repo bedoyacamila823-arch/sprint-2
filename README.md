@@ -1,1 +1,2 @@
 
+En este proyecto apliqué distintas técnicas de pruebas funcionales para validar formularios y flujos dentro de una aplicación. Creé un mapa mental, diagramas de flujo, clases de equivalencia y casos de prueba detallando la interfaz y la funcionalidad de cada elemento. Durante el proceso, fortalecí mis habilidades en análisis de valores límite, documentación de pruebas y pensamiento lógico, asegurando que cada componente cumpliera con los criterios esperados de calidad.
